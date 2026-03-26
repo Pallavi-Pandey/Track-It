@@ -1,4 +1,4 @@
-# Django Todo App
+# Track It App
 
 This is a simple CRUD (Create, Read, Update, Delete) Todo web application built using Django, SQLite3, and Bootstrap. It allows users to create, manage, and complete their daily tasks.
 
